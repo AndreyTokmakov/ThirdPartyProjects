@@ -16,7 +16,7 @@ add_executable(${PROJECT_NAME}
 )
 
 include_directories(${THIRD_PARTY_DIR}/tabulate/include)
-message("Libs: ${THIRD_PARTY_DIR}/tabulate/include")
+# message("Libs: ${THIRD_PARTY_DIR}/tabulate/include")
 
 TARGET_LINK_LIBRARIES(${PROJECT_NAME}
         pthread
