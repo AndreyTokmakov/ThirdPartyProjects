@@ -1,2 +1,3 @@
 # ThirdPartyProjects
-Third-Party projects tests and experiments
+
+* git clone https://github.com/p-ranav/tabulate.git
